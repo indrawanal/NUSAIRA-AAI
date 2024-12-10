@@ -1,5 +1,5 @@
-# **DOCUMENTATION NUSAIRA PROJECY**
-A place for Mentors and Mentees **connect** and **grow**! This is a mini-forum for mentors and mentees from Infinite Learning to collaborate and connect. In this forum, mentors and mentees can make posts and comment on each other’s posts to help or share information!
+# **DOKUMENTASI PROJECT AI NUSAIRA**
+NusAIra adalah project kolaborasi antara website dengan AI yang berfokus di bidang Aquaculture/perikanan untuk tambak ikan lele
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
