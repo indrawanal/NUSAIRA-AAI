@@ -22,13 +22,12 @@ Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan 
 
 ## Teams
 
-- Arifian Saputra (Design Researcher)
-- Ichsan Takwa (Machine Learning Engineer)
-- Siska Anggraeni (Machine Learning Ops)
-- Cindy Febriani (Data Engineer)
-- Fariq Almasri (Data Engineer)
-- Wahyudi (Machine Learning Ops)
-- Agistira Lamunde (Machine Learning Engineer)
+- Ahmad Ziyat  (Design Researcher)
+- indrawan althaf rosyadi (Machine Learning Engineer)
+- Karlina Maelani (Data Engineer)
+- Iftikhar Rizqullah (Machine Learning Ops)
+- Istiqomah (Machine Learning Ops)
+- arya pratama putra (Machine Learning Engineer)
 
 ## Idea Background
 
