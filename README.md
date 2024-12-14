@@ -9,12 +9,12 @@ NusAIra adalah project kolaborasi antara website dengan AI yang berfokus di bida
 
 ``` NusAIra  ```
 
-Clone this repository with : 
+repository collab : 
 ```
-https://github.com/arifian853/InfiniteTalk.git
+https://github.com/praditus343/Nusaira
 ```
 
-Then ``` npm install ``` to download all the dependencies, then ```npm run dev``` to start the server in localhost with port 5173 = ```http://localhost:5173```
+
 
 ## A. Core Features:
 
