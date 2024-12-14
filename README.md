@@ -14,6 +14,13 @@ repository collab :
 https://github.com/praditus343/Nusaira
 ```
 
+Member Team
+- Siti Nurhalizha (Projet Manager)
+- Heri (Hipster, Scrum Master)
+- Niko Fauzan Kurniawan (Hipster)
+- Dhea Mursetyani (Hipster)
+- 
+
 
 
 ## A. Core Features:
