@@ -7,7 +7,7 @@ NusAIra adalah project kolaborasi antara website dengan AI yang berfokus di bida
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-``` InfiniteTalk! v1.0 ```
+``` NusAIra  ```
 
 Clone this repository with : 
 ```
