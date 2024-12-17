@@ -103,8 +103,9 @@ Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 
 ## Deployment
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
-
+- Teknologi Back End yang digunakan adalah Flask dan Docker 
+- Deployment model menggunakan IBM Cloud
+  ![Alt text]()
 ## Result
 https://nusaira.vercel.app/
 
