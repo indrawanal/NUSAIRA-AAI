@@ -31,23 +31,23 @@
 
 ## Idea Background
 
-### 1. Theme
+## Theme
 Tema : Agraris/Perikanan/Aquaculture
 
-### 2. Problem yang ditimbulkan
+## Problem yang ditimbulkan
 - Manajemen penjualan pada tambak lele yang masih tradisional
 - Manajemen pakan pada tambak lele yang tidak terukur
 - Pengelolaan air di tambak lele yang tidak optimal
 - Menurunnya produktivitas yang bisa menyebabkan kerugian
 
-### 3. Solution
+## Solution
 Membuat prediksi harga lele menggunakan AI, chatbot interaktif, dan website untuk membantu petambak lele dalam:
 
 Mengoptimalkan manajemen pakan dengan panduan yang lebih terukur.
 Memantau dan mengelola kualitas air secara efisien.
 Meningkatkan produktivitas melalui prediksi harga yang akurat dan pengambilan keputusan yang lebih cepat.
 
-# NusAIra - Frontend 🌊🐟
+# NusAIra 🌊🐟
 
 NusAIra adalah aplikasi web yang dirancang untuk membantu peternak lele dalam mengelola tambak mereka dengan lebih efisien. Aplikasi ini menyediakan berbagai fitur seperti manajemen tambak, pemantauan kesehatan ikan, dan akses ke informasi terkini mengenai budidaya lele.
 
