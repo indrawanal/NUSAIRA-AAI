@@ -106,7 +106,7 @@ Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 
 ## Result
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+https://nusaira.vercel.app/
 
 ## Conclusion
 Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
