@@ -1,4 +1,7 @@
 # NUSAIRA-AAI
+<center>
+  <img src="images/LOGO%20NUSAIRA.png" alt="Logo NUSAIRA" />
+</center>
 
 ![Logo NUSAIRA](https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/Images/LOGO%20NUSAIRA.png)
 
