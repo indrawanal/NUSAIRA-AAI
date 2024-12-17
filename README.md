@@ -38,7 +38,7 @@
 ## Theme
 Tema : Agraris/Perikanan/Aquaculture
 
-## Problem yang ditimbulkan
+## Problems
 - Manajemen penjualan pada tambak lele yang masih tradisional
 - Manajemen pakan pada tambak lele yang tidak terukur
 - Pengelolaan air di tambak lele yang tidak optimal
