@@ -107,7 +107,7 @@ Model Machine Learning dibangun menggunakan model LSTM (Long Short Term Memory)
 Masukkan kode training dan juga spesifikasi model, seperti epoch, learning rate, batch size, dan lain sebagainya.
 
 - Model Evaluation <br />
-- hasil evaluasi model
+
 ![This is an image](https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/Images/Cuplikan%20layar%202024-11-11%20085252.png?raw=true)
 
 
