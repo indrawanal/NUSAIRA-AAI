@@ -3,7 +3,7 @@
 <h1 align="center">  This is a Machine Learning / AI Project </h1>
 
 <p align="center"> 
-Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan dokumentasi Project Massive anda
+
 </p>
 
 <div align="center">
