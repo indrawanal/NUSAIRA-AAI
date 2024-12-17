@@ -103,6 +103,7 @@ Kami menggunakan matriks korelasi untuk melihat kesinambungan data
 Framework yang digunakan adalah TensorFlow.
 
 - Pembangunan Model <br />
+Model Machine Learning dibangun menggunakan model LSTM (Long Short Term Memory)
 Masukkan kode training dan juga spesifikasi model, seperti epoch, learning rate, batch size, dan lain sebagainya.
 
 - Model Evaluation <br />
