@@ -1,9 +1,9 @@
 # NUSAIRA-AAI
 <center>
-  <img src="images/LOGO%20NUSAIRA.png" alt="Logo NUSAIRA" />
-</center>
-
+ 
 ![Logo NUSAIRA](https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/Images/LOGO%20NUSAIRA.png)
+
+<center>
 
 <h1 align="center">  This is a Machine Learning / AI Project </h1>
 
