@@ -97,7 +97,7 @@ Kami menggunakan matriks korelasi untuk melihat kesinambungan data
 
 
 
-### 2. Algorithm
+### 2. Algoritma
 
 - Framework <br />
 Framework yang digunakan adalah TensorFlow.
