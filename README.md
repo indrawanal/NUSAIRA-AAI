@@ -116,7 +116,10 @@ Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 - Deployment model menggunakan IBM Cloud
 
 ## Integration
-Integrasi Model AI ke dalam web dengan menyambungkan API dari Model yang sudah di deploy di IBM Cloud ke bagian Back End Web
+Integrasi Model AI ke dalam web dengan menyambungkan API dari Model yang sudah di deploy di IBM Cloud ke dalam Back End Web.
+Untuk aplikasi Web, silahkan pergi ke repository ini:
+https://github.com/praditus343/Nusaira
+https://github.com/praditus343/NusairaBE
 
 ## Result
 https://nusaira.vercel.app/
