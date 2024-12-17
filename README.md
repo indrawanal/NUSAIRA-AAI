@@ -108,7 +108,8 @@ Masukkan kode training dan juga spesifikasi model, seperti epoch, learning rate,
 
 - Model Evaluation <br />
 Hasil dari evaluasi model:
-https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/Images/Cuplikan%20layar%202024-11-11%20085252.png
+![This is an image](https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/Images/Cuplikan%20layar%202024-11-11%20085252.png)
+
 
 ## Prototype
 Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
