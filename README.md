@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">  🐟 Catfish Price Prediction Using 🤖 AI, 📊 Machine Learning, 🔄 LSTM, and 🧠 Deep Learning  </h1>
+<h1 align="center">  Empowering Catfish Farming with AI and Real-Time Insights – NusAira  </h1>
 
 <p align="center"> 
 
