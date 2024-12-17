@@ -1,6 +1,4 @@
-<p align="center"> ![LOGO NUSAIRA](https://github.com/user-attachments/assets/e4d1d3ad-1846-43a8-a875-9ae8f70d4c88)
-
-    # NUSAIRA-AAI
+# NUSAIRA-AAI
 
 <h1 align="center">  This is a Machine Learning / AI Project </h1>
 
