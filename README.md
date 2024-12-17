@@ -131,4 +131,10 @@ Untuk aplikasi Web, silahkan pergi ke repository ini:
 https://nusaira.vercel.app/
 
 ## Conclusion
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+
+Sebagai kesimpulan, **NusAira** menawarkan solusi komprehensif bagi peternak lele di Indonesia dengan menyediakan prediksi harga secara real-time dan alat manajemen tambak yang efisien. Dengan menggunakan **AI** dan **LSTM**, kami berhasil mengembangkan model yang akurat untuk memprediksi harga lele di berbagai daerah, membantu peternak dalam membuat keputusan yang lebih baik. Integrasi **chatbot** interaktif lebih meningkatkan pengalaman pengguna, memungkinkan peternak untuk mengakses informasi tentang manajemen tambak, kesehatan ikan, dan tren pasar dengan mudah. 
+
+Dengan mengatasi masalah penting seperti manajemen penjualan yang masih tradisional, manajemen pakan yang tidak terukur, dan pengendalian kualitas air yang tidak efisien, NusAira memberdayakan peternak untuk mengoptimalkan operasi mereka dan meningkatkan produktivitas. 
+
+Dengan suksesnya deployment di **IBM Cloud** dan integrasi ke dalam antarmuka web yang ramah pengguna, NusAira menjadi solusi yang dapat diandalkan dan inovatif di sektor pertanian dan perikanan. Ke depannya, kami berencana untuk terus meningkatkan akurasi model, memperluas dataset, dan menambahkan fitur-fitur canggih untuk mendukung kebutuhan peternak lele di Indonesia yang terus berkembang.
+
