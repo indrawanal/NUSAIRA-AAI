@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">  NusAira  </h1>
+<h1 align="center">  🐟 Catfish Price Prediction Using 🤖 AI, 📊 Machine Learning, 🔄 LSTM, and 🧠 Deep Learning  </h1>
 
 <p align="center"> 
 
