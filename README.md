@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">  Empowering Catfish Farming with AI and Real-Time Insights – NusAira  </h1>
+<h1 align="center"> 🐟 "Predicting Catfish Prices Across Indonesia with 🤖 AI and 💬 Chatbot Assistance – NusAira"  </h1>
 
 <p align="center"> 
 
