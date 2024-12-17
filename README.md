@@ -1,140 +1,112 @@
-# **DOKUMENTASI PROJECT AI NUSAIRA**
-NusAIra adalah project kolaborasi antara website dengan AI yang berfokus di bidang Aquaculture/perikanan untuk tambak ikan lele
+# NUSAIRA-AAI
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<h1 align="center">  This is a Machine Learning / AI Project </h1>
 
-``` NusAIra  ```
+<p align="center"> 
+Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan dokumentasi Project Massive anda
+</p>
 
-repository collab : 
+<div align="center">
+    <!-- Your badges here -->
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</div>
+
+## Teams
+
+- Ahmad Ziyat  (Design Researcher)
+- indrawan althaf rosyadi (Machine Learning Engineer)
+- Karlina Maelani (Data Engineer)
+- Iftikhar Rizqullah (Machine Learning Ops)
+- Istiqomah (Machine Learning Ops)
+- arya pratama putra (Machine Learning Engineer)
+
+## Idea Background
+
+### 1. Theme
+Tema : Agraris/Perikanan/Aquaculture
+
+### 2. Problem yang ditimbulkan
+- Manajemen penjualan pada tambak lele yang masih tradisional
+- Manajemen pakan pada tambak lele yang tidak terukur
+- Pengelolaan air di tambak lele yang tidak optimal
+- Menurunnya produktivitas yang bisa menyebabkan kerugian
+
+### 3. Solution
+Membuat prediksi harga lele menggunakan AI, chatbot interaktif, dan website untuk membantu petambak lele dalam:
+
+Mengoptimalkan manajemen pakan dengan panduan yang lebih terukur.
+Memantau dan mengelola kualitas air secara efisien.
+Meningkatkan produktivitas melalui prediksi harga yang akurat dan pengambilan keputusan yang lebih cepat.
+
+## Dataset and Algorithm
+
+### 1. Dataset
+- Data Collection <br />
+Sumber Data 1 (KKP - Harga dan Produksi Ikan Lele):
+
+Menyediakan data harga ikan lele dari 3 provinsi. Memuat data hasil produksi perikanan, mencakup volume dan nilai produksi. Rasio antara volume produksi dan nilai produksi dihitung untuk mengetahui rata-rata biaya produksi ikan.
+
+Sumber Data 2 (BPS - NTPi untuk Petani):
+
+Data NTPi (Nilai Tukar Petani ikan) dari BPS. Menunjukkan indeks harga yang harus dibayar dan yang diterima oleh petani, memberikan gambaran daya beli petani.
 ```
-https://github.com/praditus343/Nusaira
+https://github.com/AryaPratamaPutra-10/Nusaira/blob/main/Prediksi%20Harga%20Ai/data_lele_pakai.csv
 ```
 
-Member Team
-- Siti Nurhalizha (Projet Manager)
-- Heri (Hipster, Scrum Master)
-- Niko Fauzan Kurniawan (Hipster)
-- Dhea Mursetyani (Hipster)
-- 
+
+- Data Cleaning <br />
+Kami menggunakan pandas untuk membersihkan data. Berikut tabel contoh data yang sudah dibersihkan : 
+
+
+| Jenis Budidaya Pembesaran | Provinsi  | Kabupaten/Kota | Jenis Ikan | Tahun | Volume Produksi | Nilai Produksi         |
+|---------------------------|-----------|-----------------|------------|-------|------------------|------------------------|
+| KOLAM AIR TENANG          | JAWA BARAT | BANDUNG         | LELE       | 2019  | 5,372,785        | Rp85,964,560,000       |
+| KOLAM AIR TENANG          | JAWA BARAT | BANDUNG BARAT   | LELE       | 2019  | 1,328,082        | Rp19,921,230,000       |
+| KOLAM AIR TENANG          | JAWA BARAT | BEKASI          | LELE       | 2019  | 2,019,121        | Rp34,325,057,000       |
+| KOLAM AIR TENANG          | JAWA BARAT | BOGOR           | LELE       | 2019  | 89,814,340       | Rp1,526,843,780,000    |
+| KOLAM AIR TENANG          | JAWA BARAT | CIAMIS          | LELE       | 2019  | 18,162,827       | Rp236,116,751,000     |
+| KOLAM AIR TENANG          | JAWA BARAT | CIANJUR         | LELE       | 2019  | 14,124,120       | Rp225,985,920,000     |
+| KOLAM AIR TENANG          | JAWA BARAT | CIREBON         | LELE       | 2019  | 9,987,423        | Rp199,748,460,000     |
+| KOLAM AIR TENANG          | JAWA BARAT | GARUT           | LELE       | 2019  | 3,162,167        | Rp53,756,839,000      |
+| KOLAM AIR TENANG          | JAWA BARAT | INDRAMAYU       | LELE       | 2019  | 70,666,948       | Rp1,060,004,220,000   |
+| KOLAM AIR TENANG          | JAWA BARAT | KARAWANG        | LELE       | 2019  | 759,058          | Rp9,108,696,000       |
+| KOLAM AIR TENANG          | JAWA BARAT | KOTA BANDUNG    | LELE       | 2019  | 51,015           | Rp867,255,000         |
+
+Kami menggunakan matriks korelasi untuk melihat kesinambungan data
 
 
 
-## A. Core Features:
+### 2. Algorithm
 
-### 1. **Posts:**
-   - Create, delete, and edit posts.
-   - Add image to post.
-   - Add tags.
+- Framework <br />
+Framework yang digunakan adalah TensorFlow.
 
-### 2. **Comments:**
-   - Create, delete, and edit comments.
-   - Reply to comments.
+- Pembangunan Model <br />
+Masukkan kode training dan juga spesifikasi model, seperti epoch, learning rate, batch size, dan lain sebagainya.
 
-### 3. **User Authentication:**
-   - Secure sign-in using TOTP (Time-based One-Time Password) function.
+- Model Evaluation <br />
+Masukkan metrik evaluasi model seperti accuracy, precision, recall, F1-score, dan lain - lain.
 
-### 4. **Admin Control:**
-   - Admin page for controlling all user posts.
+## Prototype
+Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 
-### 5. **Roles:**
-   - User roles for Mentee or Mentor.
-   - Admin role with additional privileges (See user enrolled, manage user posts and comments).
+## Integration
+Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 
-### 6. **Containerized**
-   - Containerized with Docker, Container as OS.
-   - Visit Containerization branch to configure the ```compose.yaml``` and use the Containerized version of this project.
+## Deployment
+Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 
-## B. Teams & Information
+## Result
+Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 
-- **Hacker:** [Arifian Saputra](https://arifian853.vercel.app) (2001020029)
-- **Hipster:** [Samuel Miskan Hanock](https://tpa-4.vercel.app/) (2001020037)
-- **Containerized with Docker by** : [Frederick Benaya Situmorang](https://github.com/helios78971) (Mataram University)
-- **University:** [Universitas Maritim Raja Ali Haji](https://umrah.ac.id) (UMRAH)
-- **Program:** Intern Project @ [Infinite Learning](https://infinitelearning.id)
-
-
-## C. Front-End Tech Stack
-
-### 1. UI
-
-- **React + Vite**
-- **Tailwind CSS**
-- **Flowbite React**
-- **AOS Animation**
-- **React Hot Toast**
-
-### 2. Data and State Management
-
-- **React-Redux**
-- **Redux Toolkit**
-- **Tanstack React-Query**
-- **Axios**
-
-## D. Back-End Tech Stack
-
-### 1. Server
-
-- **Express**
-- **NodeJS**
-
-### 2. Security
-
-- **BcryptJS**
-- **JSONWebtoken**
-- **OTPAuth**
-- **CORS**
-
-### 3. Database & Tools
-
-- **MongoDB**
-- **MongoDB Compass**
-- **Postman**
-- **Docker**
-
----
-
-# InfiniteTalk! Terms of Service
-Last Updated: [17/12/2023]
-
-Welcome to InfiniteTalk! A place for Mentors and Mentees to connect and grow. We're excited to have you on board. Before you start your journey with InfiniteTalk, please read and understand our Terms of Service. By using InfiniteTalk, you agree to comply with and be bound by the following terms and conditions:
-
-## 1. Acceptance of Terms
-By accessing or using InfiniteTalk, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree to these terms, please refrain from using our services.
-
-## 2. Prohibited Content
-You agree not to use InfiniteTalk for any purpose that is prohibited by these terms. This includes, but is not limited to:
-
-- **No Politics:** Users are prohibited from engaging in political discussions or promoting political content.
-- **No Hate Speech:** Content that promotes discrimination, hostility, or violence against individuals or groups based on attributes such as ethnicity, religion, race, or societal affiliations is strictly prohibited.
-- **No Discrimination:** Users are not allowed to engage in or promote discriminatory practices on the basis of characteristics such as race, ethnicity, religion, or social background.
-- **No Pornography:** Any sexually explicit or pornographic material is not allowed.
-- **No Fake Accounts:** Users are not permitted to create fake or misleading accounts.
-- **No Misinformation:** Disseminating false or misleading information is strictly prohibited.
-- **No Fake News:** Users must not spread fake news or fabricated information.
-- **No Swearing or Profanity:** The use of offensive language, swearing, or profanity is not allowed.
-
-## 3. User Accounts
-You are responsible for maintaining the confidentiality of your InfiniteTalk account and password. If you suspect any unauthorized use of your account, please notify us immediately.
-
-## 4. Unauthorized Disclosure of Personal Information
-Engaging in the unauthorized disclosure of personal information about individuals (commonly known as 'doxxing') in the InfiniteTalk environment is strictly prohibited.
-
-## 5. Consequences of Violations
-Violation of these terms may result in the termination of your InfiniteTalk account or other actions deemed necessary by the InfiniteTalk team. We reserve the right to remove any content that violates these terms.
-
-## 6. Changes to Terms
-InfiniteTalk reserves the right to modify or revise these terms at any time. We will notify users of any significant changes.
-
-## 7. Governing Law
-These terms shall be governed by and construed in accordance with the laws of the Republic of Indonesia.
-
-By using InfiniteTalk, you agree to abide by these terms. If you have any questions or concerns, please contact us at:
-
-- [arifiansaputra43@gmail.com](mailto:arifiansaputra43@gmail.com)
-- [samuelmiskan@gmail.com](mailto:samuelmiskan@gmail.com)
-
-Thank you for being a part of InfiniteTalk! A place for Mentors and Mentees to connect and grow.
+## Conclusion
+Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
