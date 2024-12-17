@@ -111,15 +111,12 @@ Masukkan metrik evaluasi model seperti accuracy, precision, recall, F1-score, da
 ## Prototype
 Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 
-## Integration
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
-
 ## Deployment
 - Teknologi Back End yang digunakan adalah Flask dan Docker 
 - Deployment model menggunakan IBM Cloud
 
 ## Integration
-Integrasi Model AI yang sudah dideploy ke dalam web 
+Integrasi Model AI ke dalam web dengan menyambungkan API dari Model yang sudah di deploy di IBM Cloud ke bagian Back End Web
 
 ## Result
 https://nusaira.vercel.app/
