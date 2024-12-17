@@ -1,5 +1,4 @@
-<p align="center">
-# NUSAIRA-AAI
+
   </p>
 <p align="center">
   <img src="https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/Images/LOGO%20NUSAIRA.png" alt="Logo NUSAIRA" />
