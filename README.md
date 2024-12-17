@@ -29,7 +29,7 @@
 - Istiqomah (Machine Learning Ops)
 - arya pratama putra (Machine Learning Engineer)
 
-## Idea Background
+### Idea Background
 
 ## Theme
 Tema : Agraris/Perikanan/Aquaculture
