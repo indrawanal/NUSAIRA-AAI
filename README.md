@@ -122,6 +122,8 @@ Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 ## Deployment
 - Teknologi Back End yang digunakan adalah Flask dan Docker 
 - Deployment model menggunakan IBM Cloud
+![This is an image](https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/Images/Cuplikan%20layar%202024-11-24%20205028.png?raw=true)
+
 
 ## Integration
 Integrasi Model AI ke dalam web dengan menyambungkan API dari Model yang sudah di deploy di IBM Cloud ke dalam Back End Web.
