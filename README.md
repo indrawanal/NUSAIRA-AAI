@@ -116,9 +116,6 @@ Masukkan kode training dan juga spesifikasi model, seperti epoch, learning rate,
 ![This is an image](https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/Images/Cuplikan%20layar%202024-11-11%20085252.png?raw=true)
 
 
-## Prototype
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
-
 ## Deployment
 - Teknologi Back End yang digunakan adalah Flask dan Docker 
 - Deployment model menggunakan IBM Cloud
