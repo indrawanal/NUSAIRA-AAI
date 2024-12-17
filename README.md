@@ -47,6 +47,18 @@ Mengoptimalkan manajemen pakan dengan panduan yang lebih terukur.
 Memantau dan mengelola kualitas air secara efisien.
 Meningkatkan produktivitas melalui prediksi harga yang akurat dan pengambilan keputusan yang lebih cepat.
 
+# NusAIra - Frontend 🌊🐟
+
+NusAIra adalah aplikasi web yang dirancang untuk membantu peternak lele dalam mengelola tambak mereka dengan lebih efisien. Aplikasi ini menyediakan berbagai fitur seperti manajemen tambak, pemantauan kesehatan ikan, dan akses ke informasi terkini mengenai budidaya lele.
+
+## Fitur 🌟
+
+- **Manajemen Tambak**: Buat dan kelola tambak lele Anda. 🐟
+- **Pemantauan Kesehatan**: Informasi tentang penyakit lele dan cara penanganannya. 🩺
+- **Berita dan Informasi**: Akses berita terbaru dan informasi penting terkait budidaya lele. 📰
+- **E-Learning**: Akses ke kursus dan materi pembelajaran untuk meningkatkan pengetahuan Anda tentang budidaya lele. 📚
+- **Prediksi Harga**: Pantau tren harga lele secara real-time. 📈
+
 ## Dataset and Algorithm
 
 ### 1. Dataset
@@ -105,7 +117,10 @@ Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 ## Deployment
 - Teknologi Back End yang digunakan adalah Flask dan Docker 
 - Deployment model menggunakan IBM Cloud
-  ![Alt text]()
+
+## Integration
+Integrasi Model AI yang sudah dideploy ke dalam web 
+
 ## Result
 https://nusaira.vercel.app/
 
