@@ -1,6 +1,11 @@
-# NUSAIRA-AAI
 
-<h1 align="center">  This is a Machine Learning / AI Project </h1>
+  </p>
+<p align="center">
+  <img src="https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/Images/LOGO%20NUSAIRA.png" alt="Logo NUSAIRA" />
+</p>
+
+
+<h1 align="center"> 🐟 "Predicting Catfish Prices Across Indonesia with 🤖 AI and 💬 Chatbot Assistance – NusAira"  </h1>
 
 <p align="center"> 
 
@@ -29,12 +34,11 @@
 - Istiqomah (Machine Learning Ops)
 - arya pratama putra (Machine Learning Engineer)
 
-### Idea Background
 
 ## Theme
 Tema : Agraris/Perikanan/Aquaculture
 
-## Problem yang ditimbulkan
+## Problems
 - Manajemen penjualan pada tambak lele yang masih tradisional
 - Manajemen pakan pada tambak lele yang tidak terukur
 - Pengelolaan air di tambak lele yang tidak optimal
@@ -70,9 +74,8 @@ Menyediakan data harga ikan lele dari 3 provinsi. Memuat data hasil produksi per
 Sumber Data 2 (BPS - NTPi untuk Petani):
 
 Data NTPi (Nilai Tukar Petani ikan) dari BPS. Menunjukkan indeks harga yang harus dibayar dan yang diterima oleh petani, memberikan gambaran daya beli petani.
-```
 https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/data_lele.csv
-```
+
 
 
 - Data Cleaning <br />
@@ -97,7 +100,7 @@ Kami menggunakan matriks korelasi untuk melihat kesinambungan data
 
 
 
-### 2. Algoritma
+### 2. Algorithm
 
 - Framework <br />
 Framework yang digunakan adalah TensorFlow.
@@ -107,14 +110,15 @@ Model Machine Learning dibangun menggunakan model LSTM (Long Short Term Memory)
 Masukkan kode training dan juga spesifikasi model, seperti epoch, learning rate, batch size, dan lain sebagainya.
 
 - Model Evaluation <br />
-Masukkan metrik evaluasi model seperti accuracy, precision, recall, F1-score, dan lain - lain.
 
-## Prototype
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+![This is an image](https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/Images/Cuplikan%20layar%202024-11-11%20085252.png?raw=true)
+
 
 ## Deployment
 - Teknologi Back End yang digunakan adalah Flask dan Docker 
 - Deployment model menggunakan IBM Cloud
+![This is an image](https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/Images/Cuplikan%20layar%202024-11-24%20205028.png?raw=true)
+
 
 ## Integration
 Integrasi Model AI ke dalam web dengan menyambungkan API dari Model yang sudah di deploy di IBM Cloud ke dalam Back End Web.
@@ -126,4 +130,10 @@ Untuk aplikasi Web, silahkan pergi ke repository ini:
 https://nusaira.vercel.app/
 
 ## Conclusion
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+
+Sebagai kesimpulan, **NusAira** menawarkan solusi komprehensif bagi peternak lele di Indonesia dengan menyediakan prediksi harga secara real-time dan alat manajemen tambak yang efisien. Dengan menggunakan **AI** dan **LSTM**, kami berhasil mengembangkan model yang akurat untuk memprediksi harga lele di berbagai daerah, membantu peternak dalam membuat keputusan yang lebih baik. Integrasi **chatbot** interaktif lebih meningkatkan pengalaman pengguna, memungkinkan peternak untuk mengakses informasi tentang manajemen tambak, kesehatan ikan, dan tren pasar dengan mudah. 
+
+Dengan mengatasi masalah penting seperti manajemen penjualan yang masih tradisional, manajemen pakan yang tidak terukur, dan pengendalian kualitas air yang tidak efisien, NusAira memberdayakan peternak untuk mengoptimalkan operasi mereka dan meningkatkan produktivitas. 
+
+Dengan suksesnya deployment di **IBM Cloud** dan integrasi ke dalam antarmuka web yang ramah pengguna, NusAira menjadi solusi yang dapat diandalkan dan inovatif di sektor pertanian dan perikanan. Ke depannya, kami berencana untuk terus meningkatkan akurasi model, memperluas dataset, dan menambahkan fitur-fitur canggih untuk mendukung kebutuhan peternak lele di Indonesia yang terus berkembang.
+
