@@ -27,12 +27,8 @@
 
 ## Teams
 
-- Ahmad Ziyat  (Design Researcher)
-- indrawan althaf rosyadi (Machine Learning Engineer)
-- Karlina Maelani (Data Engineer)
-- Iftikhar Rizqullah (Machine Learning Ops)
-- Istiqomah (Machine Learning Ops)
-- arya pratama putra (Machine Learning Engineer)
+- INDRAWAN ALTHAF ROSYADI (AI DEV)
+- ARYA PRATAMA PUTRA      (AI DEV)
 
 
 ## Theme
