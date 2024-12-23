@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
   </p>
 <p align="center">
@@ -10,14 +9,6 @@
 
 <p align="center"> 
 
-=======
-# NUSAIRA-AAI
-
-<h1 align="center">  This is a Machine Learning / AI Project </h1>
-
-<p align="center"> 
-Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan dokumentasi Project Massive anda
->>>>>>> 69f3dd4b76a6e67e64b40f55b66e311c54a1dabc
 </p>
 
 <div align="center">
@@ -43,7 +34,6 @@ Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan 
 - Istiqomah (Machine Learning Ops)
 - arya pratama putra (Machine Learning Engineer)
 
-<<<<<<< HEAD
 
 ## Theme
 Tema : Agraris/Perikanan/Aquaculture
@@ -72,24 +62,11 @@ NusAIra adalah aplikasi web yang dirancang untuk membantu peternak lele dalam me
 - **Berita dan Informasi**: Akses berita terbaru dan informasi penting terkait budidaya lele. 📰
 - **E-Learning**: Akses ke kursus dan materi pembelajaran untuk meningkatkan pengetahuan Anda tentang budidaya lele. 📚
 - **Prediksi Harga**: Pantau tren harga lele secara real-time. 📈
-=======
-## Idea Background
-
-### 1. Theme
-Tema : Cuaca dan Iklim
-
-### 2. Problem
-Masalah : Prediksi Cuaca yang tidak akurat
-
-### 3. Solution
-Solusi : Membuat model Machine Learning yang dapat memprediksi cuaca dengan akurat. Ketiga poin ini bisa dibuat agak panjang dibandingkan contoh ini.
->>>>>>> 69f3dd4b76a6e67e64b40f55b66e311c54a1dabc
 
 ## Dataset and Algorithm
 
 ### 1. Dataset
 - Data Collection <br />
-<<<<<<< HEAD
 Sumber Data 1 (KKP - Harga dan Produksi Ikan Lele):
 
 Menyediakan data harga ikan lele dari 3 provinsi. Memuat data hasil produksi perikanan, mencakup volume dan nilai produksi. Rasio antara volume produksi dan nilai produksi dihitung untuk mengetahui rata-rata biaya produksi ikan.
@@ -122,18 +99,10 @@ Kami menggunakan pandas untuk membersihkan data. Berikut tabel contoh data yang 
 Kami menggunakan matriks korelasi untuk melihat kesinambungan data
 
 
-=======
-Kami menemukan data kami di Kaggle.
-- Data Cleaning <br />
-Kami menggunakan pandas untuk membersihkan data. Berikut tabel contoh data yang belum dibersihkan dan yang sudah: 
-
-Poin soal dataset boleh ditambahkan sesuai kebutuhan.
->>>>>>> 69f3dd4b76a6e67e64b40f55b66e311c54a1dabc
 
 ### 2. Algorithm
 
 - Framework <br />
-<<<<<<< HEAD
 Framework yang digunakan adalah TensorFlow.
 
 - Pembangunan Model <br />
@@ -168,27 +137,3 @@ Dengan mengatasi masalah penting seperti manajemen penjualan yang masih tradisio
 
 Dengan suksesnya deployment di **IBM Cloud** dan integrasi ke dalam antarmuka web yang ramah pengguna, NusAira menjadi solusi yang dapat diandalkan dan inovatif di sektor pertanian dan perikanan. Ke depannya, kami berencana untuk terus meningkatkan akurasi model, memperluas dataset, dan menambahkan fitur-fitur canggih untuk mendukung kebutuhan peternak lele di Indonesia yang terus berkembang.
 
-=======
-Kami menggunakan TensorFlow dan Keras.
-
-- Pembangunan Model <br />
-Masukkan kode training dan juga spesifikasi model, seperti epoch, learning rate, batch size, dan lain sebagainya.
-
-- Model Evaluation <br />
-Masukkan metrik evaluasi model seperti accuracy, precision, recall, F1-score, dan lain - lain.
-
-## Prototype
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
-
-## Integration
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
-
-## Deployment
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
-
-## Result
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
-
-## Conclusion
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
->>>>>>> 69f3dd4b76a6e67e64b40f55b66e311c54a1dabc
